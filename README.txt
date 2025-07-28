@@ -1,3 +1,5 @@
+Make sure you download the Project Explanation Doc file wherein the details of this project have been thoroughly documented
+
 In order to view my project in unity, please install Unity hub on your system.
 
 Install unity editor version 2022.3.62f1 LTS from downloads section in Unity Hub
